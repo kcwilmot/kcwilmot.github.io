@@ -15,5 +15,5 @@
   * NFA Simulation/Parser
   * RegEx Simulation/Parser
   
- ## About Me
+## About Me
 I am currently a student at Boise State persuing a degree in Computer Science. I have worked in the service industry for 10+ years in both employee and managerial roles. I enjoy a mix of biking, golf, skiing, and gaming. My academic interests include data modeling, statistical analysis, and cybersecurity.
