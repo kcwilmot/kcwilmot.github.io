@@ -1,5 +1,21 @@
-## Welcome to GitHub Pages
+# Welcome to Kelly Wilmot's GitHub Page
+## CS Student, BSU
 
+### Major/Minors
+* Computer Science and Engineering, BS
+  * Cybersecurity Emphasis
+* Applied Mathematics Minor
+* Japanese Studies Minor
+
+### My Projects
+* [The Best HelloWorld Ever!](https://github.com/kcwilmot/hello-world/)
+* *Class projects available on request*
+  * BTree
+  * DFA Simulation
+  * NFA Simulation
+  * RegEx Simulation
+  
+ 
 You can use the [editor on GitHub](https://github.com/kcwilmot/kcwilmot.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
