@@ -16,4 +16,4 @@
   * RegEx Simulation/Parser
   
 ## About Me
-I am currently a student at Boise State persuing a degree in Computer Science. I have worked in the service industry for 10+ years in both employee and managerial roles. I enjoy a mix of biking, golf, skiing, and gaming. My academic interests include data modeling, statistical analysis, and cybersecurity.
+I am currently a student at Boise State persuing a degree in Computer Science. I have worked in the service industry for 10+ years in both an employee as well as managerial capacity. I enjoy a mix of biking, golf, skiing, and gaming. My academic interests include data modeling, statistical analysis, and cybersecurity.
